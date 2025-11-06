@@ -1,0 +1,6 @@
+[submodule "services/asr/whisper.cpp"]
+	path = services/asr/whisper.cpp
+	url = https://github.com/ggerganov/whisper.cpp.git
+[submodule "services/llm/llama.cpp"]
+	path = services/llm/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
