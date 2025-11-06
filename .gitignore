@@ -19,3 +19,9 @@ __pycache__/
 *.log
 *.db
 *.dylib
+
+venv/
+models/
+*.gguf
+services/*/build/
+services/*/.cache/
