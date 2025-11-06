@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+*/venv/
+
+# Model weights
+*.gguf
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Audio and large files
+*.wav
+*.mp3
+*.mp4
+
+# Cache and temp
+__pycache__/
+*.log
+*.db
+*.dylib
